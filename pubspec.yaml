@@ -1,0 +1,7 @@
+name: guitar
+
+environment:
+  sdk: '^3.1.0'
+
+# dependencies:
+  
